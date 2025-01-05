@@ -19,3 +19,4 @@ Fatalities and Injuries: A scatter plot and heat map showing the correlation bet
 
 ## Tableau Project Link
 https://public.tableau.com/views/VipulTableauProject/GlobalTerrorism?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
