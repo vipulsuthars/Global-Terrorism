@@ -16,3 +16,6 @@ Global Terrorism Overview: A global map showing terrorism incidents by country, 
 Trends by Year: A time-series line graph visualizing the frequency of terrorist incidents over the years.
 Attack Types: Bar charts comparing the different methods used in attacks (bombings, armed assaults, etc.).
 Fatalities and Injuries: A scatter plot and heat map showing the correlation between the number of attacks and casualties.
+
+## Tableau Project Link
+https://public.tableau.com/views/VipulTableauProject/GlobalTerrorism?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
