@@ -1,4 +1,3 @@
-# Global-Terrorism
 ## Global Terrorism Analysis - Tableau Project
 ## Overview
 This project aims to provide an interactive analysis of global terrorism trends, patterns, and key statistics using data visualizations created in Tableau. The goal is to analyze terrorism incidents worldwide, identify hotspots, and explore trends in incidents, fatalities, and affected regions over time.
